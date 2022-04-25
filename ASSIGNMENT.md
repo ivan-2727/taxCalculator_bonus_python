@@ -93,7 +93,3 @@ Move the parameters used by the application to an outside data store of your own
 
 As you take on the assignment you will undoubtedly have questions. Please write these questions down in a file named `questions.md` and submit that along with your solution. Although we cannot answer them in order for you to complete the assignment, they will be helpful
 in evaluating your solution.
-
-
-KalleBlomqvist
-dd09d84cc1b211ec9d640242ac120002
